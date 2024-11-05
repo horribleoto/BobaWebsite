@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgb(241, 194, 75);
+    color: rgb(207, 105, 105);
+    }    
+img {
+    width: 200px;
+  }
+
+  button {
+    height: 40px;
+    width: 100px;
+    border: none;
+    background: #000000;
+    border-radius: 5px;
+    margin-top: 50px;
+    color: rgb(253, 154, 253);
+  }
+  input {
+    height: 50px;
+    width: 400px;
+    margin: 0 15px;
+    font-size: 30px;
+    background:rgb(169, 220, 107)
+  }
+  #display-text {
+    font-size: 30px;
+  }
+  
+  
